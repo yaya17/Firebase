@@ -1,5 +1,5 @@
 # Firebase
 
 Learning Firebase:
-*.on()
-*.once()
+* .on()
+* .once()
